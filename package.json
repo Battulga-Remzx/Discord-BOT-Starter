@@ -18,7 +18,9 @@
   ],
   "dependencies": {
     "discord.js": "^12.5.3",
-    "quick.eco": "^2.0.3"
+    "quick.eco": "^2.0.3",
+    "meg": "^1.0.1",
+    "megadb": "^3.4.0"
   },
   "engines": {
     "node": "12.x"
