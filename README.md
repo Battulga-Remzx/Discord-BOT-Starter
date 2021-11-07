@@ -1,22 +1,41 @@
-# Updated 09th August, 2021
+# Welcome To EconomyBot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## This EconomyBot was written by 0_0#6666
+### Language : JavaScript/NodeJS (Core Lang : EN)
+##### Library : Discord.js
+###### Framework used : quick.eco by Snowflake Development
 
-## Update Logs
+##### IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!
+# Links
+- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
+- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+# Copyright 
+Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
-## • Bot has been fully Upgraded to D.js v13! 
+# License
+**nginx 2021 all rights reserved**
 
-### • Inline replies added!
+# Features
+- Shop
+- Customisable Daily, weekly , search , crime and beg commands (earning)
+- Balance
+- Leaderboard
+- CodeFactor : Easily usable 
+## Contribute 
+### Feel free to contribute to the repository by forking it and submitting a pull request we would love to have you as a contributor! You mst read through the nginx code of conduct and the (Included) license carefully before submitting a pull request.
+#### Node Version Requirement
+``12.x or higher``
 
-### • Bot Sends Non - Embedded Responses Now
+**NOTE FOR GLITCH HOSTERS 
+`` THIS BOT DOES NOT DIE IT SENDS A HEARTBEAT (PING) EVERY 5 MINS TO THE GLITCH PROJECT SO THAT YOUR PROJECT STAYS ALIVE IF IT DOES NOT WORK FOR YOU THEN 
+DM ME FOR A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM  ME @0_0#6666 THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS
+MAKE A NEW ONE USING MY TUTORIAL :D``**
+``IT WORKS ON REPL.IT PRETTY FINE ITS BEEN TESTED ALREADY``
 
-### • Join Support Server For Help , Cache memory from the API endpoint exists so it can remember users for a specific time period.
+# Host On Repl.it
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/ZeroDiscord/EconomyBot)
+# Host On Glitch 
+[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/EconomyBot/)
 
-#### • Added polyfill abortcontroller dependency for djs v13 to work for node version below 13
-
-**This chatbot was created by 0_0#6666** <br>
-_To set up your bot please head to .env and make a variable named `TOKEN` and add your token there!_ <br>
-**This bot is fully customisable join https://discord.gg/ARu4hr6hJw for support and other questions**
-
-Youtube Channel: **https://www.youtube.com/c/ZeroSync**
-
-**NOTE
-`THIS BOT DIES IF YOU DON'T USE IT EVERY 5 MINUTES CAN BE EASILY RE-HOSTED BY REGENERATING THE TOKEN AND REPPLACING IT IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM 0_0#6666 THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS MAKE A NEW ONE USING MY TUTORIAL :D`**
+# Dependencies 
+- *Discord.js v12*
+- *quick.eco (has a Dev dependency of quick.db and better-sqlite3*)
